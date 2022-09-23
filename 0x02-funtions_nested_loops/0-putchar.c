@@ -7,15 +7,10 @@
 */
 int main(void)
 {
-putchar ('_');
-putchar ('p');
-putchar ('u');
-putchar ('t');
-putchar ('c');
-putchar ('h');
-putchar ('a');
-putchar ('r');
-putchar ('\n');
-
+char school[10] = "_putchar";
+int i;
+for (i = 0; i < 8; i++)
+{
+_putchar(school[i]);
 return (0);
 }
