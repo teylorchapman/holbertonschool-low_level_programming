@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
 *print_sign - returns if a number is positive or negative
 *@n: the number to check
