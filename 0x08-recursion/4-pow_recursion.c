@@ -1,9 +1,9 @@
 #include "main.h"
 /**
-*_pow_recursion - entry point
-*@x: input
-*@y: input
-*return: always 0
+* _pow_recursion - Entry point
+* @x: input
+* @y: input
+* Return: Always 0 (Success)
 */
 int _pow_recursion(int x, int y)
 {
