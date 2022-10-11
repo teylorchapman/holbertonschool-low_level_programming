@@ -1,8 +1,8 @@
 #include "main.h"
 /**
-*_strlen_recursion - note: no _putchar in local test
-*@s: input
-*return: always 0
+* _strlen_recursion - note: no _putchar in local test
+* @s: input
+* Return: Always 0
 */
 int _strlen_recursion(char *s)
 {
