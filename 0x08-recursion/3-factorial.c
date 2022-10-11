@@ -1,8 +1,8 @@
 #include "main.h"
 /**
-*factorial - entry point
-*@n: input
-*return: always 0
+* factorial - entry point
+* @n: input
+* Return: Always 0
 */
 int factorial(int n)
 {
