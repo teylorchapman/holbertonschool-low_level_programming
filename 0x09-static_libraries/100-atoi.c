@@ -1,5 +1,5 @@
 #include "main.h"
-int main(void)
+int _atoi(void)
 {
   return (0);
 }
