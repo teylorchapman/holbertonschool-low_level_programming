@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main - prints the name of the file.
+ * main - check the code for Holberton School students.
  *
- * Return: Always 0.
+ * Return: success.
  */
 int main(void)
 {
