@@ -13,7 +13,6 @@
 char *string_nconcat(char *s1, char *s2, unsigned int n)
 {
 char *concat;
-char *dummy(5)
 unsigned int len = n, index;
 if (s1 == NULL)
 s1 = "";
@@ -30,6 +29,5 @@ concat[len++] = s1[index];
 for (index = 0; s2[index] && index < n; index++)
 concat[len++] = s2[index];
 concat[len] = '\0';
-free(dummy)
 return (concat);
 }
