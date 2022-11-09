@@ -3,25 +3,22 @@
 
 #include <stdio.h>
 #include <stdlib.h>
-#include <string.h>
-
-int _strlen(char *str);
 
 /**
- * struct lists - singly linked list
- * @str: string 
+ * struct list_s - singly linked list
+ * @str: string - (malloc'ed string)
  * @len: length of the string
  * @next: points to the next node
- * description: singly linked list node structure 
+ * description: singly linked list node structure
  */
-
-typedef struct lists
+typedef struct list_s
 {
-  char *str;
-  unsigned int len;
-  struct lists *next;
+char *str;
+unsigned int len;
+struct list_s *next;
 }
-  list_t;
+list_t;
+
 int _putchar(char c);
 size_t print_list(const list_t *h);
 size_t list_len(const list_t *h);
