@@ -18,6 +18,6 @@ popped = *head;
 content = popped->n;
 free(popped);
 
-*head - (*head)->next;
+*head = (*head)->next;
 return (content);
 }
