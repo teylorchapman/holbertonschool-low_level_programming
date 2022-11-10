@@ -19,6 +19,9 @@ cursor = *head;
 free(cursor);
 *head = (*head)->next;
 }
+
 *temp = NULL;
+
 }
+
 }
