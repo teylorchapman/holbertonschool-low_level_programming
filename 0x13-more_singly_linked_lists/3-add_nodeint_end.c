@@ -1,7 +1,7 @@
 #include "lists.h"
 
 /**
-* add_nodeint_end - adds a node to the end of a linked list
+*add_nodeint_end - adds a node to the end of a linked list
 * @head: pointer to the head of the list
 * @n: number to be used as content
 * return: address of the newly added node
@@ -25,7 +25,7 @@ if (cursor != NULL)
 while (cursor->next != NULL)
 cursor = cursor->next;
 
-cursor->next - new_node;
+cursor->next = new_node;
 }
 else
 *head = new_node;
