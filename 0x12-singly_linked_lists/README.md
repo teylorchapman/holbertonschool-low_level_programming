@@ -1,9 +1,9 @@
-# This is the C - Singly Linked Lists project for Holberton Schools Tulsa
+# :sparkles: This is the C - Singly Linked Lists project for Holberton Schools Tulsa :sparkles:
 
 ## Objectives:
 
-    1. When and why use linked lists vs arrays
-    1. How to build and used linked lists.
+    * When and why use linked lists vs arrays
+    * How to build and used linked lists.
 
 ### Requirements:
 
@@ -19,19 +19,19 @@ Any use of functions like ```prinf```, ```puts```, ```calloc```, ```realloc```, 
 ## Questions:
 
     0. Print list
-        1. write a function that prints all the elements of a ```list_t``` list.
+        * write a function that prints all the elements of a ```list_t``` list.
     
     1. List Length
-        1. write a functiton that returns the number of elements in a linked ```list_t``` list.
+        * write a functiton that returns the number of elements in a linked ```list_t``` list.
     
     2. Add Node
-        1. write a function that adds a new node at the beginning of a ```list_t``` list.
+        * write a function that adds a new node at the beginning of a ```list_t``` list.
 
     3. Add Node at the End
-        1. write a function that adds a new node at the end of a ```list_t``` list.
+        * write a function that adds a new node at the end of a ```list_t``` list.
 
     4. Free List
-        1. write a function that frees a ```list_t``` list.
+        * write a function that frees a ```list_t``` list.
 
-## Author:
-    [Teylor Chapman-Bilbee](https://github.com/teylorchapman/)
+## :sparkles: Author: :sparkles:
+    :four_leaf_clover: [Teylor Chapman-Bilbee](https://github.com/teylorchapman/) :four_leaf_clover:
