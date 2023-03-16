@@ -19,7 +19,7 @@ return (NULL);
 dup = strdup(str);
 if (dup == NULL)
 {
-free(new)
+free(new);
 return (NULL);
 }
 
