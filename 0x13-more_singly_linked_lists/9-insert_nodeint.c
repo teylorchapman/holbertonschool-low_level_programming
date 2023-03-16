@@ -14,7 +14,7 @@ listint_t *nn = NULL;
 listint_t *pn = NULL;
 unsigned int i = 0;
 
-nn = malloc(sizeof(listint_t))
+nn = malloc(sizeof(listint_t));
 if (nn == NULL || idx > listint_len(*head))
 {
 free(nn);
