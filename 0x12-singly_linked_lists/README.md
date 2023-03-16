@@ -2,8 +2,8 @@
 
 ## Objectives:
 
-    * When and why use linked lists vs arrays
-    * How to build and used linked lists.
+* When and why use linked lists vs arrays
+* How to build and used linked lists.
 
 ### Requirements:
 
@@ -18,20 +18,20 @@ Any use of functions like ```prinf```, ```puts```, ```calloc```, ```realloc```, 
 
 ## Questions:
 
-    0. Print list
-        * write a function that prints all the elements of a ```list_t``` list.
-    
-    1. List Length
-        * write a functiton that returns the number of elements in a linked ```list_t``` list.
-    
-    2. Add Node
-        * write a function that adds a new node at the beginning of a ```list_t``` list.
+0. Print list
+    * write a function that prints all the elements of a ```list_t``` list.
 
-    3. Add Node at the End
-        * write a function that adds a new node at the end of a ```list_t``` list.
+1. List Length
+    * write a functiton that returns the number of elements in a linked ```list_t``` list.
+    
+2. Add Node
+    * write a function that adds a new node at the beginning of a ```list_t``` list.
 
-    4. Free List
-        * write a function that frees a ```list_t``` list.
+3. Add Node at the End
+    * write a function that adds a new node at the end of a ```list_t``` list.
+
+4. Free List
+    * write a function that frees a ```list_t``` list.
 
 ## :sparkles: Author: :sparkles:
-    :four_leaf_clover: [Teylor Chapman-Bilbee](https://github.com/teylorchapman/) :four_leaf_clover:
+:four_leaf_clover: [Teylor Chapman-Bilbee](https://github.com/teylorchapman/) :four_leaf_clover:
