@@ -33,7 +33,7 @@ nn->next = *head;
 return (nn);
 }
 nn->next = pn->next;
-pnx->next = nn;
+pn->next = nn;
 return (nn);
 }
 else if ((i + 1) == idx)
