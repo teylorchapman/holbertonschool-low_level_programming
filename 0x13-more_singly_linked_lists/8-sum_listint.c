@@ -13,7 +13,7 @@ size_t sum = 0;
 
 while (cursor != NULL)
 {
-sum += cursor->next;
+sum += cursor->n;
 cursor = cursor->next;
 }
 return (sum);
